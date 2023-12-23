@@ -24,10 +24,14 @@ After labelling, I have written another 2nd script to rename from numerical valu
 
 Finally, the dataset is ready to model training stage. 
 
+The dataset is available on google drive: https://drive.google.com/drive/folders/1DHTzI-2UQg1nwjLd9iY6GjveezmDy2cG?usp=sharing 
+
 
 ## Model Training & Trialing 
 
-After that, dataset is being used at training stage. You can check Flower_Model_Data_preprocessing.ipynb file for more details. After trail & training, the model has achieved 96% valid accuracy. 
+After that, dataset is being used at training stage with Resnet 50. You can check Flower_Model_Data_preprocessing.ipynb file for more details. After trail & training, the model has achieved 96% valid accuracy. 
+
+The trained model on Resnet50: https://drive.google.com/file/d/1-J3MplpNWdhGo5NZVc5N9SW7N_sLdWgC/view?usp=sharing
 
 ## Deploying
 
